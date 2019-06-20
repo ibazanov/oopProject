@@ -12,4 +12,4 @@ try {
     echo "<br>Опять это говно - ";
     echo $exception->getMessage();
 }
-//§12§12
+//§12§12111
